@@ -37,9 +37,9 @@ Display the test accuracy, confusion matrix, and classification report.
 
 ## PROGRAM
 
-### Name:Kanagavel A K
+### Name: Kanagavel A K
 
-### Register Number:212223230096
+### Register Number: 212223230096
 
 ```python
 import torch
